@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 using Microsoft.AspNetCore.Mvc.Razor;
 
+using R5T.Magyar;
+
 
 namespace Microsoft.Extensions.DependencyInjection
 {
